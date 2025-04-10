@@ -45,11 +45,18 @@ Metafin isn’t just another fintech tool—it’s your clear, icon-driven co-pi
 # Installation
 
 ### Clone the repo
+
 ```bash
-git clone https://github.com/VVUx21/team-meta_cognition
-cd team-meta_cognition
+git clone https://github.com/iamnitishsah/MetaFin.git
+cd MetaFin
 ```
 
+
+
+For the frontend:
+```bash
+cd MetaFin-Frontend
+```
 ### Install dependencies
 ```bash
 npm i --force
@@ -59,6 +66,29 @@ npm i --force
 ```bash
 npm run dev
 ```
+
+
+
+For the backend:
+```bash
+cd MetaFin-Backend
+```
+set up a virtual environment and install dependencies:
+```bash
+python3 -m venv .env
+source .env/bin/activate
+pip install -r requirements.txt
+```
+### Migrate the database
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+### Run the development server
+```bash
+python manage.py runserver
+```
+
 
 # Tech Stack
 
@@ -95,10 +125,3 @@ npm run dev
 
 ### Personalized News Recommendation
 ![News Workflow](https://res.cloudinary.com/dk6m1qejk/image/upload/v1743924275/Hackfest%20workflows/oehtvsat7zgswa8rcg2d.jpg)
-
-# Deployment
-
-This project is deployed using:
-- **Frontend**: Vercel (Next.js)
-- **Backend**: Render (Django + PostgreSQL)
-
