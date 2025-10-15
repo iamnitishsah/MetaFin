@@ -1,4 +1,4 @@
-![IIT- ISM Certificate](https://github.com/iamnitishsah/MetaFin/IIT-ISM Certificate.jpg?raw=true)
+![IIT-ISM Certificate](https://github.com/iamnitishsah/MetaFin/blob/main/IIT-ISM%20Certificate.jpg?raw=true)
 
 
 
