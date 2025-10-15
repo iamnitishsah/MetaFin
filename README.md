@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iamnitishsah/MetaFin/blob/main/IIT-ISM_Certificate.jpeg?raw=true" alt="IIT-ISM Certificate" width="600"/>
+  <img src="https://github.com/iamnitishsah/MetaFin/blob/main/IIT-ISM%20Certificate.jpeg?raw=true" alt="IIT-ISM Certificate" width="600"/>
 </p>
 
 
